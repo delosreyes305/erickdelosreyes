@@ -37,22 +37,18 @@
 
 ### GitHub Analytics
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=delosreyes305&show_icons=true&theme=github_dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=delosreyes305&show_icons=true&theme=github_dark"/>
-  </a>
+<p align="left">
+  
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=delosreyes305&theme=github-dark-blue">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=delosreyes305&theme=github-dark-blue"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=delosreyes305&layout=compact&theme=github_dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delosreyes305&layout=compact&theme=github_dark"/>
-  </a>
+  
 </p>
 
 ### GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=delosreyes305&theme=gitdimmed&column=7"/>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=delosreyes305&theme=gitdimmed&column=8"/>
 </p>
 
 ### Resume
