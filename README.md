@@ -1,30 +1,67 @@
-<h1 align="center">Hi 👋, I'm Erick de los Reyes</h1>
-<h3 align="center">A passionate full stack developer from USA</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delosreyes305&label=Profile%20views&color=0e75b6&style=flat" alt="delosreyes305" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delosreyes305" alt="delosreyes305" /></a> </p>
-
-- 🔭 I’m currently working on [My Yellow Pages](https://github.com/delosreyes305/Final-Project-My-Yellow-Pages)
-
-- 🌱 I’m currently learning **Tailwind CSS**
-
-- 🤝 I’m looking for help with **future projects**
-
-- 💬 Ask me about **front and backend**
-
-- 📫 How to reach me **delosreyeserick90@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erickdelosreyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erickdelosreyes" height="30" width="40" /></a>
+<h1 align="center">Hi there 👋 I'm Erick de los Reyes</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=delosreyes305&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50%" alt="coding gif"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delosreyes305&show_icons=true&locale=en&layout=compact" alt="delosreyes305" /></p>
+<h3 align="center">Full Stack Developer | Life‑long learner | Technology Enthusiast</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delosreyes305&show_icons=true&locale=en" alt="delosreyes305" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/erickdelosreyes">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:delosreyeserick90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delosreyes305&" alt="delosreyes305" /></p>
+### About Me
+
+- 🔭 Currently building: [My Yellow Pages](https://github.com/delosreyes305/Final-Project-My-Yellow-Pages)
+- 🌱 Learning: Tailwind CSS, TypeScript
+- 💬 Ask me about: full‑stack web development (React, Node.js, Python), PostgreSQL, API design
+- 🤝 Open to collaboration on innovative projects and open‑source contributions
+
+### Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
+
+### GitHub Analytics
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=delosreyes305&show_icons=true&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=delosreyes305&show_icons=true&theme=github_dark"/>
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=delosreyes305&theme=github-dark-blue">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=delosreyes305&theme=github-dark-blue"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=delosreyes305&layout=compact&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delosreyes305&layout=compact&theme=github_dark"/>
+  </a>
+</p>
+
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=delosreyes305&theme=gitdimmed&column=7"/>
+</p>
+
+### Resume
+
+ <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1cAM1YvH6c9I5SvgnmuHuRCXav2pp6_Rl/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=google-drive&labelColor=34A853" alt="Resume"/>
+  </a>
+</p>
+---
+
+Thank you for visiting my profile! Let's connect and build something great together 🤝
